@@ -3,7 +3,7 @@ Ever wanted to know what color that star (or galaxy) would be if you could look 
 
 Created by Benjamin C. Kaiser (UNC-Chapel Hill) 2021-06-03
 
-Please cite me if you use this for images with something like: "made using true_colors from 
+Please cite me if you use this with something like: "made using true_colors from 
 Benjamin C. Kaiser"
 
 **** This is not a "science" code. I make no guarantees that this actually is the real color you 
