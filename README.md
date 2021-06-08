@@ -17,7 +17,7 @@ source code: https://github.com/phetsims/blackbody-spectrum/blob/4d8b70c78ee8521
 
 and the helpful support staff directed me to the source code, but I did *not* use the 
 same method they used. I did use their constants and formula for calculating f_lambda for a 
-given black body, but that's it (as far as I can remember). It looked like they went directly from the blackbody spectrum to an approximate RGB (which ignores large portions of the visible range and doesn't really calibrate for human eye sensitivity).
+given blackbody, but that's it (as far as I can remember). It looked like they went directly from the blackbody spectrum to an approximate RGB (which ignores large portions of the visible range and doesn't really calibrate for human eye sensitivity).
 
 ***********
 
